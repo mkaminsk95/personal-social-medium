@@ -1,0 +1,12 @@
+{
+    "name": "laravel/laravel",
+    "description": "Personal social medium for for my portfolio.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Michał Kamiński",
+            "email": "m.kaminsk95@gmail.com"
+        }
+    ],
+    "require": {},
+}
